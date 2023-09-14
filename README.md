@@ -1,1 +1,1 @@
-# Studing-java
+# Repositorio destinado ao estudo do Java
